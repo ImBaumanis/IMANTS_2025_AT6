@@ -1,0 +1,1 @@
+This text describes the funcionality of the class. The first method loops throught the list of string and determines how many positive integers exist in the given list
